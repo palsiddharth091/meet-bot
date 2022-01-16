@@ -1,15 +1,15 @@
 let btn = document.querySelector('button');
 btn.addEventListener('click', display_ct);
-let dbms = 'http://meet.google.com/hbi-ypmg-row';
-let dbms_lab = 'http://meet.google.com/sga-ggxs-knd';
-let pdc = 'http://meet.google.com/iom-avbe-fss';
-let afl = 'http://meet.google.com/aab-joxv-mfa';
-let coa = 'http://us02web.zoom.us/j/87662686300';
-let wt = 'https://bit.ly/wt-theory';
-let wt_lab = 'http://meet.google.com/vrd-iodo-paj'; //g1
-let os = 'http://meet.google.com/ygm-cmqn-upn';
-let os_lab = 'https://meet.google.com/orj-evrr-rqm?authuser=1';
-let bc ='https://bit.ly/bcomm-c15';
+let dbms = 'http://meet.google.com';
+let dbms_lab = 'http://meet.google.com';
+let pdc = 'http://meet.google.com';
+let afl = 'http://meet.google.com';
+let coa = 'http://us02web.zoom.us';
+let wt = 'https://bit.ly';
+let wt_lab = 'http://meet.google.com'; //g1
+let os = 'http://meet.google.com';
+let os_lab = 'https://meet.google.com';
+let bc ='https://bit.ly';
 let c1 = 0, c2 = 0, c3 = 0, c4 = 0, c5 = 0, c6 = 0, c7 = 0;
 function display_c() {
     var refresh = 1000; // Refresh rate in milli seconds
