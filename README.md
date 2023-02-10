@@ -2,7 +2,7 @@
 
 I have created a MeetBot. It is a meeting redirector. At the start of the day, open this bot, and once you have pressed the "GO" button, do not close the tab. The bot will automatically redirect you to your meeting link. Once all of your meetings are finished for the day, the bot will close itself within 10 seconds. 
 
-## Sample Time Table :-
+## Sample Time Table :
 
 | Day / Time |8:00 - 9:00|9:00 - 10:00 | 10:00 - 11:00 | 11:00 - 12:00 | 12:00 - 13:00 | 13:00 - 14:00 | 16:00 - 18:00 | 
 | :----------:|:----------:|:-----------:|:-------------: |:-------------:| :-----:| :-------------: |:-------------:| 
