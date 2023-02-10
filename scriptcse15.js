@@ -134,6 +134,7 @@ function display_ct() {
         }
         else if ((hrs == 12) && (mins <= 59)) {
             if (c5 == 0) {
+                spn.innerHTML='Mrs. Nalini Prava Behera';
                 console.log('WT');
                 window.open(wt, '_blank');
                 c5++;
@@ -162,8 +163,9 @@ function display_ct() {
         }
         else if ((hrs == 8) && (mins <= 59)) {
             if (c1 == 0) {
+                spn.innerHTML='Mrs. Nalini Prava Behera';
                 console.log('WT');
-                window.open(os, '_blank');
+                window.open(wt, '_blank');
                 c1++;
             }
             
@@ -226,6 +228,7 @@ function display_ct() {
         }
         else if ((hrs == 8) && (mins <= 59)) {
             if (c1 == 0) {
+                 spn.innerHTML='Mrs. Nalini Prava Behera';
                 console.log('WT');
                 window.open(wt, '_blank');
                 c1++;
@@ -328,7 +331,7 @@ function display_ct() {
         else if ((hrs == 10) && (mins <= 59)) {
             if (c3 == 0) {
                 spn.innerHTML='Mr. Mano Ranjan Kumar';
-                window.open(dbms, '_blank');
+                window.open(coa, '_blank');
                 c3++;
             }
             
